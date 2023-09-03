@@ -4,7 +4,7 @@ import os
 import multiprocessing
 
 # Dir with your images
-source = "/home/nathan/.var/app/org.citra_emu.citra/data/citra-emu/dump/textures/0004000000030200/"
+source = "REPLACE ME WITH A FILE PATH"
 target_color = np.array([0, 255, 255])
 
 def count_colors(image):
