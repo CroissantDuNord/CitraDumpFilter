@@ -2,7 +2,7 @@
 Filter the texture dumped from the emulator citra
 
 # Compatible Games
-- ["Kid Icarus: Uprising"](https://en.wikipedia.org/wiki/Kid_Icarus:_Uprising)
+- ["Kid Icarus: Uprising"](https://en.wikipedia.org/wiki/Kid_Icarus:_Uprising) (**[SCRIPT](KidIcarus_Filter.py)**)
 
 This game dump a **huge** of bugged texture, 200 000~ in 15~ minutes
 
